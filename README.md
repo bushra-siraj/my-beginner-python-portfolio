@@ -30,9 +30,9 @@ These simple programs demonstrate core concepts like user input, conditional log
 
 ---
 
-### 🚀 Data Analyst & Video Editor Background
+### 🚀 Data Scientist & Video Editor Background
 
-As a **Data Analyst** and **Video Editor**, I merge a background in **creative narrative** and **visual storytelling** with my passion for **data logic** and **Data Science**. This helps me not only analyze trends but also structure complex data into clear, compelling insights.
+As a **Data Scientist** and **Video Editor**, I merge a background in **creative narrative** and **visual storytelling** with my passion for **data logic** and **Data analysis**. This helps me not only analyze trends but also structure complex data into clear, compelling insights.
 
 ---
 
